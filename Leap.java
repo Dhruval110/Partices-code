@@ -1,3 +1,4 @@
+//write the leap year program wihtout using the % operator.
 import java.util.Scanner;
 
 public class Leap {
